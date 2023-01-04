@@ -2,14 +2,14 @@
 ## Description
 This CTkinter GUI app allows you to send a appointment confirmation email with the date of the appointment selected.
 ## Requirements
-
+```
 pip install Tkinter
 
 pip install CTkinter
 
 pip install TkCalendar
-
-Must Enable 2 Factor Authentication With Google Account and Generate an App Password
+```
+Must Enable 2 Factor Authentication With Google Account and Generate an [App Password](https://support.google.com/mail/answer/185833?hl=en-GB)
 
 ## Calendar GUI 
 
