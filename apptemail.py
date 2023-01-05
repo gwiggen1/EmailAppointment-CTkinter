@@ -16,8 +16,8 @@ ck.set_default_color_theme("green")
 
 #Define Sender
 #Must 2 factor authenticate with google and get google app pass
-email_sender= 'jbubba620@gmail.com'
-email_pass = 'gfmtegcjghxajevz'
+email_sender= 'youremail@gmail.com'
+email_pass = 'yourapppassword'
 
 #Define Window
 root = ck.CTk()
