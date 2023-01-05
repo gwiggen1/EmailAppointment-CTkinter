@@ -12,6 +12,9 @@ pip install TkCalendar
 Must Enable 2 Factor Authentication With Google Account and Generate an [App Password](https://support.google.com/mail/answer/185833?hl=en-GB)
 
 ## Your Setup
+
+You must change this for the email to send:
+
 ```
 email_sender= 'youremail@gmail.com'  #Enter your email here
 email_pass = 'yourapppassword'       #Enter your app password here
