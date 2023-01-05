@@ -5,7 +5,7 @@ This CTkinter GUI app allows you to send a appointment confirmation email with t
 ```
 pip install Tkinter
 
-pip install CTkinter
+pip install customTkinter
 
 pip install TkCalendar
 ```
